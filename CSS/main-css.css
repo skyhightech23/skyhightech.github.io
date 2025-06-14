@@ -11,8 +11,7 @@
 
 /*Navigation Menu Classes */
 .logo {
-    width: 10%;
-    border-right: 1px solid blue;
+    align-self: flex-start;
 }
 .header-nav-menu {
     width: 100%;
