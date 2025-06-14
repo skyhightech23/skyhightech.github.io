@@ -45,6 +45,7 @@ body {
 .nav-menu-list {
     /*UL element inside header-nav-menu container*/
     width: 85vw;
+    display: flex;
     list-style: none;
 }
 .nav-menu-parent-item {
