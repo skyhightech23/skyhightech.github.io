@@ -6,9 +6,6 @@
 }
 /*Navigation Menu Classes */
 .logo {
-    display: flex;
-    flex-direction: row;
-    align-items: center;;
     width: 10%;
     border-right: 1px solid blue;
 }
@@ -18,7 +15,3 @@
     border: 1px solid red;
 }
 /* End Navigation Menu Classes */ 
-svg {
-    height: 30;
-    width: 92;
-}
