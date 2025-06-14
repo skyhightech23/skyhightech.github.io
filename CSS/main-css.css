@@ -1,0 +1,14 @@
+/*Row flex container */
+.row-flex-cntr {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.logo {
+    width: 25%;
+    border-right: 1px solid blue;
+}
+.header-nav-menu {
+    width: 100%;
+    border: 1px solid red;
+}
