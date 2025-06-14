@@ -28,7 +28,7 @@ body {
 .logo {
     /*div container the logo img element */
     width: 15vw;
-    align-self: flex-start;
+    /*align-self: flex-start; remove if unused*/
 }
 .logo:hover {
     cursor: pointer;
