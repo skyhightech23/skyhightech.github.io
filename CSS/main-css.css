@@ -13,3 +13,7 @@
     height: 10%;
     border: 1px solid red;
 }
+.logo svg {
+    height: 30;
+    width: 92;
+}
