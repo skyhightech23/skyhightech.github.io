@@ -19,6 +19,9 @@ body {
     .justify-content-cntr {
         justify-content: center;
     }
+    .align-self-cntr {
+        align-self: center;
+    }
 /* End Repeatable Container Classes */
 
 /*Navigation Menu Classes */
