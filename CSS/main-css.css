@@ -5,8 +5,8 @@ body {
 
 :root {
     --primary-background-color: black;
-    --secondary-color: blue;
-    --text-color: #333; /* Dark Gray */
+    --secondary-color: #4B9CD3; /* UNC Blue */
+    --text-color: #F8F8F8; /* UNC Gray */
 }
 /*End Global CSS  */
 
@@ -27,7 +27,7 @@ body {
 /*Navigation Menu Classes */
 .logo {
     /*div container the logo img element */
-    width: 10vw;
+    width: 15vw;
     align-self: flex-start;
 }
 .logo:hover {
@@ -41,5 +41,15 @@ body {
     border-top-right-radius: 0px;
     border-bottom: 5px;
     background-color: var(--primary-background-color);
+}
+.nav-menu-parent-item {
+    /*li element for parent menu item*/
+    list-style: none;
+    color: var(--text-color);
+    text-decoration: underline;
+}
+.nav-menu-parent-item:hover {
+    cursor: pointer;
+    color: var(--secondary-color);
 }
 /* End Navigation Menu Classes */ 
