@@ -1,9 +1,14 @@
-/*Repeatable Row flex container class */
-.row-flex-cntr {
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-}
+/*Repeatable flex container class */
+    .row-flex-cntr {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+    }
+    .justify-content-cntr {
+        justify-content: center;
+    }
+/* End Repeatable Container Classes */
+
 /*Navigation Menu Classes */
 .logo {
     width: 10%;
