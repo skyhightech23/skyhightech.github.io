@@ -44,7 +44,7 @@ body {
 }
 .nav-menu-list {
     /*UL element inside header-nav-menu container*/
-    width: 75vw;
+    width: 85vw;
     list-style: none;
     
 }
