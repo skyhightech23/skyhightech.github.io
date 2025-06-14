@@ -42,11 +42,20 @@ body {
     border-bottom: 5px;
     background-color: var(--primary-background-color);
 }
+.nav-menu-list {
+    /*UL element inside header-nav-menu container*/
+    width: 75vw;
+    list-style: none;
+    
+}
 .nav-menu-parent-item {
     /*li element for parent menu item*/
-    list-style: none;
     color: var(--text-color);
     text-decoration: underline;
+    display: inline-block;
+    padding: 0 0.5rem;
+    min-width: 12rem;
+    text-align: center;
 }
 .nav-menu-parent-item:hover {
     cursor: pointer;
