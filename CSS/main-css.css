@@ -30,7 +30,7 @@ body {
     width: 15vw;
     /*align-self: flex-start; remove if unused*/
 }
-.logo:hover {
+.logo img:hover {
     cursor: pointer;
 }
 .header-nav-menu {
